@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang=en>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <!--table-->
+    <table border=1 cell spacing=6 cell padding=10 height=400 width=400 bg colour=white background=media/img/city.jpg>
+    <thead.
+<tr>
+    <th colspan=2>personal information</th>
+</tr>
+<tr>
+    <th>name</th>
+    <th>saranyaasri</th>
+</tr>
+<tr>
+    <th>dob</th>
+    <th>xx/yy/zzzz</th>
+</tr>
+<tr>
+    <th>qualification</th>
+    <th>be mba</th>
+</tr>
+<tr>
+    <th>experience</th>
+    <th>8 years</th>
+</tr>
+</thead>
+</body>
+</html>
+-->
