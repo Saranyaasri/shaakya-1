@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <p>extra curriculars</p>
+        <!--list-->
+    <!--oredered list-->
+<ol type=I>
+    <li>recycling club</li>
+    <li>gardening club</li>
+        <li>book club</li>
+</li>
+    </ol>
+</body>
+</html>
