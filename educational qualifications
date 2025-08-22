@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang=en>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <!--table-->
+    <table border=1 cellspacing=6 cell padding==10 height="400 width=400" background="media/img/city.jpg"
+    <thead>
+    <tr>
+        <th><strong>course</strong></th>
+        <th><strong>board</strong></th>
+        <th><strong>educational qualifications</strong></th>
+        <th><strong>pass year</strong></th>
+        <th><strong>% of marks</strong></th>
+        </tr>
+        <tr>
+            <td>mba</td>
+            <td>srm</td>
+            <td>srmist</td>
+            <td>2025</td>
+            <td>70%</td>
+            </tr>
+            <td>be</td>
+            <td>anna university</td>
+            <td>pct</td>
+            <td>2014</td>
+            <td>84%</td>
+            </tr>
+            <td>hslc</td>
+            <td>state board</td>
+            <td>akshaya academy</td>
+            <td>2010</td>
+            <td>72%</td>
+            </tr>
+            <tr>
+                <td>sslc</td>
+                <td>state board</td>
+                <td>st peters'</td>
+                <td>2008</td>
+                <td>85%</td>
+                </tr>
+            </body>
+        </table>
+    </body>
+    </html>
+        
