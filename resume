@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+    <head>
+        <title>resume</title></title>
+    </head>
+            <body>
+            <h1>saranyaasri k</h1>
+            <h2>saranyaasri@gmail.com</h2>
+            <p>
+                <strong>career objective</strong>
+            </p><br>
+            i seek challenges where fully i can use my skills for the company growth.
+            <hr>
+            <!--table-->
+            <table border="1 cellspacing=6 cell padding=10" height="400" width="400" >
+                <thead>
+                    <tr>
+                        <th><strong>course</strong></th>
+                        <th><strong>board</strong></th>
+                        <th><strong>educational qualifications</strong></th>
+                        <th><strong>pass year</strong></th>
+                        <th><strong>% of marks</strong></th>
+                    
+                    </tr>
+                    </thead>
+                    <tr>
+                        <td>mba</td>
+                        <td>srm</td>
+                        <td>srmist</td>
+                        <td>2025</td>
+                        <td>70%</td>
+                    </tr>
+                    <tr>
+                        <td>BE</td>
+                        <td>anna university</td>
+                        <td>pct</td>
+                        <td>2014</td>
+                        <td>84%</td>
+                    </tr>
+                    <tr>
+                        <td>hslc</td>
+                        <td>state board</td>
+                        <td>akshaya academy</td>
+                        <td>2010</td>
+                        <td>72%</td>
+                    </tr>
+                    <tr>
+                        <td>sslc</td>
+                        <td>state board</td>
+                        <td>st.peters</td>
+                        <td>2008</td>
+                        <td>85%</td>
+                    </tr>
+</table>
+                    <p><strong>area of interest</strong></p>
+                    <!--list-->
+                    <!--unordered list-->
+                    <ul type="circle"> 
+
+                        <li> air pollution</li>
+                        <li>water pollution</li>
+                        <li>environmental monitoring</li>
+                    </ul><br>
+                    <strong>declaration</strong><br>
+                    the above mentioned furnished details are true to my knowledge
+            
+                    </body>
+        
+
+    </html>
